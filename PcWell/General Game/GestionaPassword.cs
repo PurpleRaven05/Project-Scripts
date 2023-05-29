@@ -24,11 +24,6 @@ public class GestionaPassword : MonoBehaviour
         mainCanvas.gameObject.SetActive(false);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
     public void guardaPass(){
         buttonSound.Play(0);
         if(textito.text !=""){

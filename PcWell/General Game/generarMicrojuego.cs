@@ -31,7 +31,7 @@ public class generarMicrojuego : MonoBehaviour
         resizeCanvas();
         resizeCrono();
     }
-
+    //used to transform little popups into minigame screen
     public void resizeCanvas()
     {
         if (microActual.gameObject.tag == "MicroPequeno")
@@ -77,7 +77,7 @@ public class generarMicrojuego : MonoBehaviour
     {
         Destroy(this.gameObject);
     }
-
+    //allows to minimize the minigame or return it to normal state
     public void alternarVentana()
     {
         activado = !activado;
