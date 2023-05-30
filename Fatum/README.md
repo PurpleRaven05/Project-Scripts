@@ -1,5 +1,5 @@
 # Fatum
-Fatum is the biggest and long-term project I have. It is a very minimalist and strange exploration and adventure game that seeks to immerse players in a mystical narrative. You can read more about the project [here](http://https://drive.google.com/file/d/1GJWa4fgjm6HMowvnrY-iCx_DCtIDYLtH/view?usp=sharing "here").
+Fatum is the biggest and long-term project I have. It is a very minimalist and strange exploration and adventure game that seeks to immerse players in a mystical narrative. You can read more about the project [here](https://drive.google.com/file/d/1WH9y-Lpdpr7J9tK3k8Uz3HMO9FxFKdnq/view?usp=sharing "here").
 
 ### Content
 These are the folders you will find in this repository.
