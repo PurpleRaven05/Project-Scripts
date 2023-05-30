@@ -5,8 +5,8 @@ This package has been made from scratch by me. It is an interface that allows yo
 ### Content
 These are the folders you will find in this repository.
 
-####  Editor- Editor
+####  Editor
 In this folder are all the scripts that make up the graph itself, including the Node class, and the viewport where you can edit everything without having to touch code.
 
-#### Runtime- Runtime
+#### Runtime
 Here are all the package functions , the connections between nodes, and the nodes data in the graph.
