@@ -1,4 +1,5 @@
-#StarCatcher
+# StarCatcher
+
 StarCatcher is a minigame in which the player competes with an AI trained by ML-Agents to see who can collect more coins than the other.
 
 ### Content
